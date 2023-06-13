@@ -1,12 +1,12 @@
-googlevideo.com
-youtu.be
-youtube-nocookie.com
-youtube.com
-youtube.googleapis.com
-youtubei.googleapis.com
-ytimg.com
-ytimg.l.google.com
-ads.youtube.com
-s.youtube.com
-m.youtube.com
-www.youtube.com
+0.0.0.0 googlevideo.com
+0.0.0.0 youtu.be
+0.0.0.0 youtube-nocookie.com
+0.0.0.0 youtube.com
+0.0.0.0 youtube.googleapis.com
+0.0.0.0 youtubei.googleapis.com
+0.0.0.0 ytimg.com
+0.0.0.0 ytimg.l.google.com
+0.0.0.0 ads.youtube.com
+0.0.0.0 s.youtube.com
+0.0.0.0 m.youtube.com
+0.0.0.0 www.youtube.com
