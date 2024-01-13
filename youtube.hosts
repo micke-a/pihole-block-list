@@ -10,3 +10,5 @@
 0.0.0.0 s.youtube.com
 0.0.0.0 m.youtube.com
 0.0.0.0 www.youtube.com
+0.0.0.0 .*youtube.*
+0.0.0.0 .*googlevideo.*
